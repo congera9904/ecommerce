@@ -1,0 +1,49 @@
+.g {
+    display: flex;
+    background-color: darkolivegreen;
+}
+.g a{
+    color: white;
+    font-size: 2vw;
+    text-decoration: none;
+}
+.g a:hover{
+    color: rgb(228, 139, 7);
+}
+
+.e {
+    display: flex;
+    padding-left: 500px;
+
+
+}
+
+li {
+    margin: 20px;
+    list-style: none;
+
+}
+
+x.d {
+    display: inline;
+}
+
+img {
+    padding: 80px;
+    border-bottom: 500px;
+    border-radius: 150px;
+}
+
+/* body {
+    background-color: darkslategray;
+
+} */
+
+.mimi {
+    background-color: beige;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+
